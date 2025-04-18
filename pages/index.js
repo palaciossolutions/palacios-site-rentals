@@ -10,8 +10,7 @@ export default function HomePage() {
           <p className="text-xl font-light">Make Rentals Affordable Again</p>
         </div>
       </header>
-
-{/* content continues from document ... */}
+      {/* ...rest of the page... */}
     </div>
   );
 }
