@@ -11,7 +11,7 @@ export default function HomePage() {
         </div>
       </header>
 
-      <!-- content continues from document ... -->
+{/* content continues from document ... */}
     </div>
   );
 }
